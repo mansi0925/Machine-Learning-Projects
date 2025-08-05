@@ -1,0 +1,19 @@
+Data and Notebook Resource 
+
+Note Books - https://github.com/cosmicudemy/ML_Casestudies
+
+Data -  Data is placed inside every folder - https://github.com/cosmicudemy/ML_Casestudies 
+
+External Link For reference
+
+ https://www.kaggle.com/datasets
+
+https://www.kaggle.com/c/rossmann-store-sales
+
+https://www.kaggle.com/c/grupo-bimbo-inventory-demand
+
+https://www.kaggle.com/c/telstra-recruiting-network
+
+https://www.kaggle.com/c/caterpillar-tube-pricing
+
+https://www.kaggle.com/c/restaurant-revenue-predictionS
